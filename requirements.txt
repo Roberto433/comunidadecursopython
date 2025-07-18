@@ -1,4 +1,4 @@
-backports.zoneinfo==0.2.1
+backports.zoneinfo
 bcrypt==4.3.0
 blinker==1.8.2
 click==8.1.8
